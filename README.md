@@ -10,10 +10,10 @@
 📫 How to reach me: 
 </p>
 <p align='center'>
-  <a href="https://medium.com/@vinicius.pereira.mts" target="_blank">
+  <a href="https://www.linkedin.com/in/viniciusp-martins/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/viniciusp-martins/" target="_blank">
+  <a href="https://medium.com/@vinicius.pereira.mts" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
