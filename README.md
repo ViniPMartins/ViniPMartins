@@ -50,7 +50,7 @@
   
 - 👨‍💻 **Business Analytics**\
 📆 2020 - present\
-📍 **Sales Supermercados** - Barbacena/MG, Brazil
+📍 **Rivelli Alimentos S/A** - Barbacena/MG, Brazil
 
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
@@ -66,7 +66,7 @@
   
   - 👨‍💻 **Office Assistant**\
 📆 2017 - 2020\
-📍 **Sales Supermercados** - Barbacena/MG, Brazil
+📍 **Sales Supermercados LTDA** - Barbacena/MG, Brazil
 
 <br>
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
