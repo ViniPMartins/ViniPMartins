@@ -46,21 +46,25 @@
 
 **Experience**
 
+<p>
+  
 - 👨‍💻 **Business Analytics**\
 📆 2020 - present\
 📍 **Sales Supermercados** - Barbacena/MG, Brazil
 
-<br>
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-<br>
-<br>
-<br>
 
-- 👨‍💻 **Office Assistant**\
+</p>
+<br>
+<br>
+<br>
+<p>
+  
+  - 👨‍💻 **Office Assistant**\
 📆 2017 - 2020\
 📍 **Sales Supermercados** - Barbacena/MG, Brazil
 
@@ -69,10 +73,10 @@
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-
+</p>
+<br>
 <br>
 </details>
-
 <details>
   <summary>Skills</summary>
 <br>
