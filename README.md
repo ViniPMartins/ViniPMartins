@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A data analyst and Python developer from Brazil.
+  Professional in Data Analysis and Business. Specializing in Data Science and AI Algorithms.
 </p>
 
 <p align="center">
